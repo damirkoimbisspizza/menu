@@ -1,16 +1,16 @@
 [
     {
         "nome": "Da Mirko",
-        "tipo": "Besonderes Pizzen",
+        "tipo": "Hausgemachte Pizzen",
         "prezzo1": "Klein €8.00",
         "prezzo2": "Normal €16.00",
-        "prezzo3": "Familien €45.00",
-        "descrizione": "Pizzateig, Tomatensauce, Mozzarella, Brie Käse, Zucchini, Garnelen",
+        "prezzo3": "Familien €43.00",
+        "descrizione": "Tomatensauce, Mozzarella, Zucchini, Garnelen, Brie Käse",
         "piccante": false,
         "glutine": true,
         "latticini": true,
         "pesce": true,
-        "vegetariana": false,
+        "vegetariana": true,
         "alcolico": false
     },
     {
