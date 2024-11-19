@@ -463,7 +463,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Calzone",
@@ -476,7 +476,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Porcini",
@@ -490,7 +490,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Italia",
@@ -504,7 +504,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Mascarpone e Crudo",
@@ -518,7 +518,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Bufala",
@@ -532,7 +532,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Parmiggiana",
@@ -546,7 +546,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Reginella",
@@ -559,7 +559,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Crudino",
@@ -572,7 +572,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Prosciuttella",
@@ -585,7 +585,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Tonnolo",
@@ -598,7 +598,7 @@
         "latticini": true,
         "pesce": true,
         "vegetariana": true,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Vegetariano",
@@ -611,7 +611,7 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Glutenfrei",
@@ -622,7 +622,7 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Einfache Zutaten",
@@ -749,7 +749,6 @@
         "alcolico": false
     }
 ]
-
 
 
 
