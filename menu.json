@@ -686,7 +686,7 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": true,
+        "alcolico": false,
     }
     {
         "nome": "Oransoda",
