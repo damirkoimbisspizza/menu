@@ -11,6 +11,9 @@
         "latticini": true,
         "pesce": true,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -25,6 +28,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -39,6 +45,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": true,
         "alcolico": false
     },
     {
@@ -53,6 +62,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -67,20 +79,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
-        "alcolico": false
-    },
-    {
-        "nome": "Salmone",
-        "tipo": "Fisch Pizzen",
-        "prezzo1": "Klein €7.50",
-        "prezzo2": "Normal €15.00",
-        "prezzo3": "Familien €40.00",
-        "descrizione": "Tomatensauce, Mozzarella, Kochsahne, Geräucherter Lachs",
-        "piccante": false,
-        "glutine": true,
-        "latticini": true,
-        "pesce": true,
-        "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -95,6 +96,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": true,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -109,6 +113,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -123,6 +130,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -137,6 +147,26 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
+        "alcolico": false
+    },
+    {
+        "nome": "Salmone",
+        "tipo": "Fisch Pizzen",
+        "prezzo1": "Klein €7.50",
+        "prezzo2": "Normal €15.00",
+        "prezzo3": "Familien €40.00",
+        "descrizione": "Tomatensauce, Mozzarella, Kochsahne, Geräucherter Lachs",
+        "piccante": false,
+        "glutine": true,
+        "latticini": true,
+        "pesce": true,
+        "vegetariana": false,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -183,6 +213,9 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -197,6 +230,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -211,6 +247,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -225,6 +264,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -239,6 +281,9 @@
         "latticini": true,
         "pesce": true,
         "vegetariana": false,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -253,6 +298,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -267,6 +315,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -281,6 +332,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -295,6 +349,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -309,6 +366,9 @@
         "latticini": true,
         "pesce": true,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -323,6 +383,9 @@
         "latticini": true,
         "pesce": true,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -336,7 +399,10 @@
         "glutine": true,
         "latticini": true,
         "pesce": false,
-        "vegetariana": true,
+        "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -350,7 +416,10 @@
         "glutine": true,
         "latticini": true,
         "pesce": false,
-        "vegetariana": true,
+        "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -365,6 +434,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": true,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -379,6 +451,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": true,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -393,6 +468,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -407,6 +485,9 @@
         "latticini": true,
         "pesce": true,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -421,6 +502,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -435,6 +519,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -449,6 +536,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -463,6 +553,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -476,6 +569,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -490,6 +586,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -504,6 +603,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -518,6 +620,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -531,11 +636,14 @@
         "glutine": true,
         "latticini": true,
         "pesce": false,
-        "vegetariana": false,
+        "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
-        "nome": "Parmiggiana",
+        "nome": "Parmigiana",
         "tipo": "Klassische Pizzen",
         "prezzo1": "Klein €7.00",
         "prezzo2": "Normal €14.00",
@@ -546,6 +654,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -559,6 +670,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": true,
         "alcolico": false
     },
     {
@@ -571,7 +685,10 @@
         "glutine": true,
         "latticini": true,
         "pesce": false,
-        "vegetariana": true,
+        "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -584,7 +701,10 @@
         "glutine": true,
         "latticini": true,
         "pesce": false,
-        "vegetariana": true,
+        "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -597,7 +717,10 @@
         "glutine": true,
         "latticini": true,
         "pesce": true,
-        "vegetariana": true,
+        "vegetariana": false,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -611,6 +734,9 @@
         "latticini": true,
         "pesce": false,
         "vegetariana": true,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -622,6 +748,9 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
+        "carne": false,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -634,8 +763,11 @@
         "piccante": false,
         "glutine": true,
         "latticini": true,
-        "pesce": false,
-        "vegetariana": true,
+        "pesce": true,
+        "vegetariana": false,
+        "carne": true,
+        "uova": true,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
@@ -649,7 +781,10 @@
         "glutine": true,
         "latticini": true,
         "pesce": true,
-        "vegetariana": true,
+        "vegetariana": false,
+        "carne": true,
+        "uova": false,
+        "fruttasecca": false,
         "alcolico": false
     },
     {
