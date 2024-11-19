@@ -686,7 +686,7 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Oransoda",
@@ -698,7 +698,7 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Lemonsoda",
@@ -710,7 +710,7 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Mojitosoda",
@@ -722,7 +722,7 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Wasser Still",
@@ -734,7 +734,7 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
+        "alcolico": false
     },
     {
         "nome": "Wasser Medium",
@@ -746,8 +746,8 @@
         "latticini": false,
         "pesce": false,
         "vegetariana": false,
-        "alcolico": false,
-    },
+        "alcolico": false
+    }
 ]
 
 
