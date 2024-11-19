@@ -373,7 +373,7 @@
         "prezzo1": "Klein €6.00",
         "prezzo2": "Normal €12.00",
         "prezzo3": "Familien €31.00",
-        "descrizione": "Tomatensauce, Mozzarella, Kochschinken aus Italien, Gekochtes Ei,
+        "descrizione": "Tomatensauce, Mozzarella, Kochschinken aus Italien, Gekochtes Ei",
         "piccante": false,
         "glutine": true,
         "latticini": true,
@@ -687,7 +687,7 @@
         "pesce": false,
         "vegetariana": false,
         "alcolico": false,
-    }
+    },
     {
         "nome": "Oransoda",
         "tipo": "Getränke",
@@ -699,7 +699,7 @@
         "pesce": false,
         "vegetariana": false,
         "alcolico": false,
-    }
+    },
     {
         "nome": "Lemonsoda",
         "tipo": "Getränke",
@@ -711,7 +711,7 @@
         "pesce": false,
         "vegetariana": false,
         "alcolico": false,
-    }
+    },
     {
         "nome": "Mojitosoda",
         "tipo": "Getränke",
@@ -723,7 +723,7 @@
         "pesce": false,
         "vegetariana": false,
         "alcolico": false,
-    }
+    },
     {
         "nome": "Wasser Still",
         "tipo": "Getränke",
@@ -735,7 +735,7 @@
         "pesce": false,
         "vegetariana": false,
         "alcolico": false,
-    }
+    },
     {
         "nome": "Wasser Medium",
         "tipo": "Getränke",
@@ -747,7 +747,7 @@
         "pesce": false,
         "vegetariana": false,
         "alcolico": false,
-    }
+    },
 ]
 
 
