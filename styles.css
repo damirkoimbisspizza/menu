@@ -25,9 +25,6 @@ header {
 
 
 /* Contenitore sinistro dell'intestazione */
-.header-left {
-}
-
 header img {
     max-width: 150px;
     height: auto;
@@ -206,6 +203,43 @@ main {
     margin-top: 5px;
     font-size: 14px;
 }
+
+
+/* Note */
+.note {
+    padding: 20px;
+    border-top: 2px solid #dddddd;
+        text-align: center;
+
+}
+.note ul {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    text-align: left;
+    margin-top: 0;
+    font-size: 20px;
+}
+
+/* Elementi della lista */
+.note li {
+    margin: 10px 0;
+
+}
+
+.italic-text {
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+.note p {
+    text-align: center;
+    padding: 0;
+    font-size: 20px;
+}
+
+
 
 /* Footer */
 footer {
