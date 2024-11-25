@@ -65,7 +65,7 @@ header img {
 }
 header h2 {
     font-size: 20px;
-    color: brown;
+    color: black;
     font-weight: 700; /* Roboto Bold */
     margin: 0;
     margin-top: 15px; /* Maggiore margine dalle icone social */
@@ -95,7 +95,7 @@ header h2 span {
 /* Titolo principale */
 h1 {
     font-size: 40px;
-    color: brown;
+    color: black;
     font-weight: 700; /* Roboto Bold */
     text-align: center;
     margin: 0;
