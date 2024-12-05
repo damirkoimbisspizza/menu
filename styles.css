@@ -283,7 +283,7 @@ footer a:hover {
     left: 50%; /* Posizione orizzontale centrale (modificata via JS) */
     width: 20px;
     height: 20px;
-    background-image: url('snowflake.png'); /* Immagine del fiocco */
+    background-image: url('assets/snowflake.png'); /* Immagine del fiocco */
     background-size: contain;
     background-repeat: no-repeat;
     opacity: 0.8;
